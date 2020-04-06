@@ -1,20 +1,20 @@
 # learning-docs
-📚个人学习总结 &amp; 博客
+### 📚个人学习总结 &amp; 博客
 
 以前痴迷于搭建博客这件事，而忘记博客的本质在于记录，故今后学习总结的文章将会以 issues 的方式记录，方便随时随地进行编辑。
 
 # 目录
 
-## 🌐 WEB
+### 🌐 WEB
 
  - [使用 Verdaccio 搭建私有库](https://github.com/gaoac/learning-docs/issues/2)
  - [onDrag & onDrop 使用dataTransfer传输数据时IE/chrome兼容问题](https://github.com/gaoac/learning-docs/issues/13)
 
-## ⚒️ Tool
+### ⚒️ Tool
 
  - [规范你的Git Commit message](https://github.com/gaoac/learning-docs/issues/1)
 
-## 🐧 Linux
+### 🐧 Linux
 
  - [可能是目前最详细简明的CentOS7安装与管理教程（1）：系统准备](https://github.com/gaoac/learning-docs/issues/3)
  - [可能是目前最详细简明的CentOS7安装与管理教程（2）：开启网卡](https://github.com/gaoac/learning-docs/issues/4)
